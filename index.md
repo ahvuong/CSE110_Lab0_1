@@ -1,11 +1,13 @@
 # Anh's User Page
 - [Anh's User Page](#anhs-user-page)
   - [Hello Wold!](#hello-wold)
+  - [Introduction](#introduction)
   - [Lab 1 Requirements:](#lab-1-requirements)
 ## Hello Wold!
 
 ![This is my picture](./My%20Picture.jpg)
 
+## Introduction
 My name is **Anh Vuong** and here is a short introduction list about me:
 
 1. My major is Computer Science.
