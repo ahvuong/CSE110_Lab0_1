@@ -31,7 +31,6 @@ My name is **Anh Vuong** and here is a short introduction list about me:
 1. This is my [GitHub page](https://ahvuong.github.io/CSE110_Lab0_1/).
 
 
-
 ## Lab 1 Requirements:
 - [x] Part 1. Installing Visual Studio Code and Extensions
   - Download and install VSCode here
