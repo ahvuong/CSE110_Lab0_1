@@ -4,9 +4,18 @@
   - [Introduction](#introduction)
   - [Lab 1 Requirements:](#lab-1-requirements)
 ## Hello Wold!
-<img src="images\My Picture.jpg" width=300 height=300>
+![This is image](images/helloworld.png)
+```C++
+#include <stdio.h>
+
+int main() {
+    cout << "Hello Word!" << endl;
+    return 0;
+}
+```
 
 ## Introduction
+<img src="images\My Picture.jpg" width=300 height=300>
 My name is **Anh Vuong** and here is a short introduction list about me:
 
 1. My major is Computer Science.
@@ -19,7 +28,7 @@ My name is **Anh Vuong** and here is a short introduction list about me:
 ```ruby
 "Even the darkest night will end and the sun will rise." - Victor Hugo
 ```
-1. This is my [GitHub link](https://github.com/ahvuong).
+1. This is my [GitHub page](https://ahvuong.github.io/CSE110_Lab0_1/).
 
 
 
