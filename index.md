@@ -4,9 +4,7 @@
   - [Introduction](#introduction)
   - [Lab 1 Requirements:](#lab-1-requirements)
 ## Hello Wold!
-
-![This is my picture](./My%20Picture.jpg)
-<img src="./My%20Picture.jpg" width=250 height=400>
+<img src="./My%20Picture.jpg" width=300 height=400>
 
 ## Introduction
 My name is **Anh Vuong** and here is a short introduction list about me:
