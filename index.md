@@ -17,7 +17,8 @@ int main() {
 
 
 ## Introduction
-<img src="images\My Picture.jpg" width=300 height=300>
+<img src="images\My Picture.jpg" width=300 height=300>  
+
 My name is **Anh Vuong** and here is a short introduction list about me:
 
 1. My major is Computer Science.
